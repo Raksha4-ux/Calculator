@@ -1,2 +1,2 @@
-# Web-Dev
+# Calculator
 Basic Web Dev projects
